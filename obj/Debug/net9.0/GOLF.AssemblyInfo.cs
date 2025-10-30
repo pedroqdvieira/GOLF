@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GOLF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+927af1c57b406f3358a3e0e3283ed243db02d4ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("GOLF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GOLF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

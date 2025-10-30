@@ -108,7 +108,8 @@ do
                         double moedasMult = moedas * 100;
                         System.Console.WriteLine($"Você conseguiu {moedas.ToString("C")} x 100 = {moedasMult.ToString("C")} Moedas!!!");
                     }
-                    System.Console.WriteLine("");
+                    bancoContador = 0;
+                    podeMultiplicar = false;
                 }
             }
 
