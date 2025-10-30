@@ -1,0 +1,14 @@
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\GOLF\obj\Debug\net9.0\GOLF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\GOLF\obj\Debug\net9.0\GOLF.AssemblyInfoInputs.cache
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\GOLF\obj\Debug\net9.0\GOLF.AssemblyInfo.cs
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\GOLF\obj\Debug\net9.0\GOLF.csproj.CoreCompileInputs.cache
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\GOLF\bin\Debug\net9.0\GOLF.exe
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\GOLF\bin\Debug\net9.0\GOLF.deps.json
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\GOLF\bin\Debug\net9.0\GOLF.runtimeconfig.json
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\GOLF\bin\Debug\net9.0\GOLF.dll
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\GOLF\bin\Debug\net9.0\GOLF.pdb
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\GOLF\obj\Debug\net9.0\GOLF.dll
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\GOLF\obj\Debug\net9.0\refint\GOLF.dll
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\GOLF\obj\Debug\net9.0\GOLF.pdb
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\GOLF\obj\Debug\net9.0\GOLF.genruntimeconfig.cache
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\GOLF\obj\Debug\net9.0\ref\GOLF.dll
