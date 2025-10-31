@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro.vieira\\Documents\\ESTUDO_C#\\GOLF\\GOLF.csproj": {}
+    "C:\\Users\\Pacu\\Documents\\Golfc#\\GOLF\\GOLF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro.vieira\\Documents\\ESTUDO_C#\\GOLF\\GOLF.csproj": {
+    "C:\\Users\\Pacu\\Documents\\Golfc#\\GOLF\\GOLF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro.vieira\\Documents\\ESTUDO_C#\\GOLF\\GOLF.csproj",
+        "projectUniqueName": "C:\\Users\\Pacu\\Documents\\Golfc#\\GOLF\\GOLF.csproj",
         "projectName": "GOLF",
-        "projectPath": "C:\\Users\\pedro.vieira\\Documents\\ESTUDO_C#\\GOLF\\GOLF.csproj",
-        "packagesPath": "C:\\Users\\pedro.vieira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro.vieira\\Documents\\ESTUDO_C#\\GOLF\\obj\\",
+        "projectPath": "C:\\Users\\Pacu\\Documents\\Golfc#\\GOLF\\GOLF.csproj",
+        "packagesPath": "C:\\Users\\Pacu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pacu\\Documents\\Golfc#\\GOLF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pedro.vieira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pacu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
